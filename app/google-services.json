@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "77195314760",
+    "firebase_url": "https://road-99cbf.firebaseio.com",
+    "project_id": "road-99cbf",
+    "storage_bucket": "road-99cbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77195314760:android:e2ec4d3be5e76e24",
+        "android_client_info": {
+          "package_name": "com.mejestic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77195314760-dk7vls9jvmvn9mo1m3ee0vk2m1q90p7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mejestic",
+            "certificate_hash": "73C0BEF3CD79046546ABC8686A62CD460797E987"
+          }
+        },
+        {
+          "client_id": "77195314760-qnk8mlp3ktpv94eoqc2pseahucmub0hk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mejestic",
+            "certificate_hash": "25112E09C00C16178CBB3B7AA2380060FCBC1FD2"
+          }
+        },
+        {
+          "client_id": "77195314760-6k1m85os7i11j61bdc4s9na86aa26m1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuvW5ky_K3boggEjO2z22JRgyWjPjK65Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77195314760-6k1m85os7i11j61bdc4s9na86aa26m1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
